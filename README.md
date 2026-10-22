@@ -1,4 +1,4 @@
-# 中国历史
+[🌐 访问在线文档](https://hc-ags.github.io/chinese-history/)\n\n# 中国历史
 
 ## 目录
 
